@@ -1,0 +1,6 @@
+C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Facade\bin\Debug\Facade.exe.config
+C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Facade\bin\Debug\Facade.exe
+C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Facade\bin\Debug\Facade.pdb
+C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
+C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Facade\obj\Debug\Facade.exe
+C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Facade\obj\Debug\Facade.pdb

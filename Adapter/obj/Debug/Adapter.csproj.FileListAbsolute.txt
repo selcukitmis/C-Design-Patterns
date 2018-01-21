@@ -1,0 +1,5 @@
+C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Adapter\bin\Debug\Adapter.exe
+C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Adapter\bin\Debug\Adapter.pdb
+C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Adapter\obj\Debug\Adapter.exe
+C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Adapter\obj\Debug\Adapter.pdb
