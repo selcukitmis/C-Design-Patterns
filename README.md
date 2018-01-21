@@ -1,6 +1,11 @@
-# C-Design-Patterns
+# C# Design-Patterns
 
-Özellikle Test Driven Development yapmak için sıklıkla kullanacağnız Design Pattern leri örnek kullanımları ile görebilirsiniz. 
+Bu uygulamada çeşitli Design Pattern leri ve örnek kullanımlarını göreceksiniz.  
+Design pattern nedir? ne işe yarar? neden kullanmalıyız? diye soruyorsanız. Bağlantıdaki makaleyi incelemenizi tavsiye ederim. [Design Patterns Hakkında Genel Bilgiler](https://www.hermesiletisim.net/dev/design-patterns-hakkinda-genel-bilgiler#.WmUkfahl_IU)
+
+Solid prensiplerde kod yazmak,   Test Driven Development **TDD** yapmak için sıklıkla kullanacağnız Design Pattern leri örnek kullanımları ile görebilirsiniz. 
+
+# Kapsam
 
 - [x] Singleton
 - [x] Factory Method
