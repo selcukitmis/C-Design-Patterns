@@ -1,0 +1,5 @@
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Mediator\bin\Debug\Mediator.exe.config
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Mediator\bin\Debug\Mediator.exe
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Mediator\bin\Debug\Mediator.pdb
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Mediator\obj\Debug\Mediator.exe
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Mediator\obj\Debug\Mediator.pdb

@@ -1,0 +1,5 @@
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Command\bin\Debug\Command.exe.config
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Command\bin\Debug\Command.exe
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Command\bin\Debug\Command.pdb
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Command\obj\Debug\Command.exe
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Command\obj\Debug\Command.pdb

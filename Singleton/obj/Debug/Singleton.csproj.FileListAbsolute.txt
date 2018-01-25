@@ -4,3 +4,9 @@ C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Singleton\bin\De
 C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
 C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Singleton\obj\Debug\Singleton.exe
 C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Singleton\obj\Debug\Singleton.pdb
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Singleton\obj\Debug\Singleton.exe
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Singleton\obj\Debug\Singleton.pdb
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Singleton\bin\Debug\Singleton.exe
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Singleton\bin\Debug\Singleton.pdb
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache

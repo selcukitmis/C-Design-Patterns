@@ -4,3 +4,9 @@ C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\DesignPatterns\FactoryMethod\bi
 C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.exe
 C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.pdb
 C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.pdb

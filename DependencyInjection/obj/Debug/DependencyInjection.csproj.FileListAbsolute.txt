@@ -1,0 +1,8 @@
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\DependencyInjection\bin\Debug\DependencyInjection.exe.config
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\DependencyInjection\bin\Debug\DependencyInjection.exe
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\DependencyInjection\bin\Debug\DependencyInjection.pdb
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\DependencyInjection\obj\Debug\DependencyInjection.csprojResolveAssemblyReference.cache
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\DependencyInjection\obj\Debug\DependencyInjection.exe
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\DependencyInjection\obj\Debug\DependencyInjection.pdb
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\DependencyInjection\bin\Debug\Ninject.dll
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\DependencyInjection\bin\Debug\Ninject.xml

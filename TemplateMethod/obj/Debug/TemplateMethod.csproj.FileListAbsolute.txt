@@ -1,0 +1,6 @@
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.csprojResolveAssemblyReference.cache
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.exe
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.exe
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.pdb

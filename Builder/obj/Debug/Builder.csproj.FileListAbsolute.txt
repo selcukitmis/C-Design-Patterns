@@ -4,3 +4,9 @@ C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Builder\bin\Debu
 C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Builder\bin\Debug\Builder.pdb
 C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Builder\obj\Debug\Builder.exe
 C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Builder\obj\Debug\Builder.pdb
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Builder\bin\Debug\Builder.exe.config
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Builder\bin\Debug\Builder.exe
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Builder\bin\Debug\Builder.pdb
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Builder\obj\Debug\Builder.exe
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Builder\obj\Debug\Builder.pdb

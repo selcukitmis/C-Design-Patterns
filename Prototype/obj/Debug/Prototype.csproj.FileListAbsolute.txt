@@ -4,3 +4,9 @@ C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Prototype\bin\De
 C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
 C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Prototype\obj\Debug\Prototype.exe
 C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Prototype\obj\Debug\Prototype.pdb
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Prototype\bin\Debug\Prototype.exe
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Prototype\bin\Debug\Prototype.pdb
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Prototype\obj\Debug\Prototype.exe
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Prototype\obj\Debug\Prototype.pdb

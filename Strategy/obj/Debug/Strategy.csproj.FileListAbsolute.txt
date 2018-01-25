@@ -1,0 +1,6 @@
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Strategy\bin\Debug\Strategy.exe
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Strategy\bin\Debug\Strategy.pdb
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Strategy\obj\Debug\Strategy.exe
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Strategy\obj\Debug\Strategy.pdb

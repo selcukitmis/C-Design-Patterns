@@ -3,3 +3,9 @@ C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Adapter\bin\Debu
 C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Adapter\bin\Debug\Adapter.pdb
 C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Adapter\obj\Debug\Adapter.exe
 C:\Users\slck8\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Adapter\obj\Debug\Adapter.pdb
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Adapter\bin\Debug\Adapter.exe
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Adapter\bin\Debug\Adapter.pdb
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Adapter\obj\Debug\Adapter.exe
+C:\Users\Selçuk\Dropbox\Projelerim\asp.net\Github\DesignPatterns\Adapter\obj\Debug\Adapter.pdb
