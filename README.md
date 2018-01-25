@@ -13,19 +13,19 @@ Design pattern nedir? ne işe yarar? neden kullanmalıyız? diye soruyorsanız. 
 - [x] Facade
 - [x] Adapter
 - [x] Composite
-- [ ] Proxy
-- [ ] Decorator
-- [ ] Bridge
-- [ ] Strategy
-- [ ] Observer
-- [ ] Chain of Responsibility
-- [ ] Memento
-- [ ] Template Method
-- [ ] State
-- [ ] Mediator
-- [ ] Command
-- [ ] Visitor
-- [ ] Dependency Injection
-- [ ] Null Object
-- [ ] Multiton
+- [x] Proxy
+- [x] Decorator
+- [x] Bridge
+- [x] Strategy
+- [x] Observer
+- [x] Chain of Responsibility
+- [x] Memento
+- [x] Template Method
+- [x] State
+- [x] Mediator
+- [x] Command
+- [x] Visitor
+- [x] Dependency Injection
+- [x] Null Object
+- [x] Multiton
 - [ ] Repository with Unit of Work
